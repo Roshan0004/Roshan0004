@@ -16,8 +16,7 @@ I build and run production backends: databases, APIs, payments, queues and deplo
 - 🎨 Outside code: sketching, painting, rangoli, long-distance cycling, trekking, puzzles and chess
 - 📫 Reach me at **poojariroshan4@gmail.com**
 
-<!-- Add the link to my portfolio here once it is deployed:
-- 🌐 Portfolio: https://... -->
+- 🌐 Portfolio: **[roshan-poojary.vercel.app](https://roshan-poojary.vercel.app)**
 
 ---
 
@@ -32,7 +31,7 @@ I build and run production backends: databases, APIs, payments, queues and deplo
 | **VHD Mumbai** | Backend for web, mobile and admin apps for an animal health programme, with Pest tests |
 | **SBI Payments** | Bidding and tender module on a legacy Laravel platform |
 
-Client work is private, so most of it lives in my [portfolio](#) rather than in repositories here.
+Client work is private, so most of it lives in my [portfolio](https://roshan-poojary.vercel.app) rather than in repositories here.
 
 ---
 
